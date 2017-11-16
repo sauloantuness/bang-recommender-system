@@ -1,0 +1,1408 @@
+category_id,chapter,name,problem_id,solved,starred
+2,1.1.1,TEX Quotes,272,32849,False
+2,1.1.2,Celebrity jeopardy,1124,9800,False
+2,1.1.3,Combination Lock,10550,9264,False
+2,1.1.4,Searching for Nessy,11044,11927,False
+2,1.1.5,Relational Operator,11172,34828,True
+2,1.1.6,Parking,11364,8892,False
+2,1.1.7,Division of Nlogonia,11498,14477,True
+2,1.1.8,Automatic Answer,11547,15320,False
+2,1.1.9,Cost Cutting,11727,21724,True
+2,1.1.10,Language Detection,12250,8565,False
+2,1.1.11,Emoogle Balance,12279,6144,False
+2,1.1.12,One-Two-Three,12289,9785,False
+2,1.1.13,Packing for Holiday,12372,9738,False
+2,1.1.14,Save Setu,12403,7982,False
+2,1.1.15,Hajj-e-Akbar,12577,9075,False
+2,1.2.1,Secret Research,621,8404,False
+2,1.2.2,Loansome Car Buyer,10114,3326,True
+2,1.2.3,Ecological Premium,10300,23768,False
+2,1.2.4,The Swallowing Ground,10963,3009,False
+2,1.2.5,Summing Digits,11332,15340,False
+2,1.2.6,Event Planning,11559,8654,True
+2,1.2.7,Sub-prime,11679,2181,False
+2,1.2.8,Jumping Mario,11764,12258,False
+2,1.2.9,Horror Dash,11799,14102,True
+2,1.2.10,Lumberjack Sequencing,11942,7874,False
+2,1.2.11,Google is Feeling Lucky,12015,6629,False
+2,1.2.12,Tariff Plan,12157,3920,False
+2,1.2.13,Zapping,12468,6430,False
+2,1.2.14,Robot Instructions,12503,3933,False
+2,1.2.15,"A Special ""Happy Birthday"" Song!!!",12554,3173,False
+2,1.3.1,Greedy Gift Givers,119,7363,False
+2,1.3.2,The Snail,573,11006,True
+2,1.3.3,Blowing Fuses,661,5114,False
+2,1.3.4,Request for Proposal,10141,4234,True
+2,1.3.5,Zeros and Ones,10324,6885,False
+2,1.3.6,Love Calculator,10424,8516,False
+2,1.3.7,Prerequisites?,10919,2085,False
+2,1.3.8,Bender B. Rodríguez Problem,11507,2138,True
+2,1.3.9,Train Tracks,11586,2606,False
+2,1.3.10,Burger Time?,11661,3459,False
+2,1.3.11,Laser Sculpture,11683,1412,False
+2,1.3.12,Digits,11687,1947,False
+2,1.3.13,Brainfuck,11956,1132,False
+2,1.3.14,Hardest Problem Ever (Easy),12478,2786,False
+2,2.1.1,Beggar My Neighbour,162,1104,False
+2,2.1.2,Bridge Hand Evaluator,462,1661,True
+2,2.1.3,Bridge Hands,555,2132,False
+2,2.1.4,Stack 'em Up,10205,2944,False
+2,2.1.5,Poker Hands,10315,2435,False
+2,2.1.6,What is the Card?,10646,2011,True
+2,2.1.7,Tarot scores.,11225,546,False
+2,2.1.8,Cards' Exchange,11678,945,False
+2,2.1.9,Jollo,12247,1315,True
+2,2.2.1,Correct Move,255,1145,False
+2,2.2.2,Chess,278,4049,True
+2,2.2.3,How Many Knights,696,3104,True
+2,2.2.4,Check The Check,10196,3972,False
+2,2.2.5,Chessboard in FEN,10284,1264,True
+2,2.2.6,Move the bishop,10849,1597,False
+2,2.2.7,Queen,11494,3734,False
+2,2.3.1,Master-Mind Hints,340,5057,False
+2,2.3.2,Hangman Judge,489,7215,True
+2,2.3.3,Master Mind Helper,947,190,False
+2,2.3.4,Minesweeper,10189,19408,True
+2,2.3.5,Mine Sweeper,10279,1977,False
+2,2.3.6,Die Game,10409,4453,False
+2,2.3.7,Guessing Game,10530,4484,False
+2,2.3.8,Snakes and Ladders,11459,1493,True
+2,2.3.9,Bingo!,12239,751,False
+2,2.4.1,Simulation Wizardry,114,1757,False
+2,2.4.2,The Spot Game,141,2065,False
+2,2.4.3,Othello,220,837,False
+2,2.4.4,Puzzle,227,2832,False
+2,2.4.5,Crossword Answers,232,2287,False
+2,2.4.6,SameGame Simulation,339,419,False
+2,2.4.7,Hi-Q,379,709,False
+2,2.4.8,Bowling,584,1390,True
+2,2.4.9,Chutes and Ladders,647,675,False
+2,2.4.10,Tic Tac Toe,10363,2319,False
+2,2.4.11,"Rock, Scissors, Paper",10443,1800,True
+2,2.4.12,Traditional BINGO,10813,1171,True
+2,2.4.13,Rock-Paper-Scissors Tournament,10903,1981,False
+2,2.5.1,Pesky Palindromes,353,2901,False
+2,2.5.2,Palindromes,401,13712,True
+2,2.5.3,Reverse and Add,10018,19717,False
+2,2.5.4,Mother bear,10945,6854,True
+2,2.5.5,Magic square palindromes.,11221,2232,True
+2,2.5.6,Counting Chaos,11309,1072,False
+2,2.6.1,Anagram checker,148,1048,False
+2,2.6.2,Ananagrams,156,7648,True
+2,2.6.3,Anagram,195,6211,True
+2,2.6.4,Anagrams,454,1600,True
+2,2.6.5,Anagrams (II),630,1304,False
+2,2.6.6,Word Amalgamation,642,2912,False
+2,2.6.7,Generating Fast,10098,6414,False
+2,2.7.1,Traffic Lights,161,2380,True
+2,2.7.2,Transaction Processing,187,975,False
+2,2.7.3,"18,000 Seconds Remaining",362,1198,False
+2,2.7.4,Booklet Printing,637,2716,True
+2,2.7.5,Quantiser,857,215,False
+2,2.7.6,WERTYU,10082,20098,False
+2,2.7.7,Longest Nap,10191,3171,False
+2,2.7.8,Major Scales,10528,905,False
+2,2.7.9,Calories from Fat,10554,621,False
+2,2.7.10,Beat the Spread!,10812,15055,True
+2,2.7.11,SMS Typing,11530,6795,False
+2,2.7.12,Financial Management,11945,892,False
+2,2.7.13,A Change in Thermal Unit,11984,7238,False
+2,2.7.14,Jingle Composing,12195,1265,False
+2,2.7.15,Baby Me,12555,833,False
+2,2.8.1,Telephone Tangles,139,730,False
+2,2.8.2,Gondwanaland Telecom,145,1828,False
+2,2.8.3,Recognizing Good ISBNs,333,1620,False
+2,2.8.4,Getting Chorded,346,480,False
+2,2.8.5,Postscript,403,470,True
+2,2.8.6,Population Explosion,447,555,False
+2,2.8.7,OOPS!,448,1061,False
+2,2.8.8,Majoring in Scales,449,218,False
+2,2.8.9,Linear Cellular Automata,457,2903,False
+2,2.8.10,Balancing Bank Accounts,538,787,False
+2,2.8.11,Counterfeit Dollar,608,1894,True
+2,2.8.12,LC-Display,706,8024,False
+2,2.8.13,Consanguine Calculations,1061,395,True
+2,2.8.14,Eb Alto Saxophone Player,10415,1432,False
+2,2.8.15,Fitting Text into Slides,10659,274,False
+2,2.8.16,O: dah dah dah!,11223,1732,False
+2,2.8.17,Credit Check,11743,3486,False
+2,2.8.18,Tax Calculator,12342,1856,False
+2,3.1.1,Clock Patience,170,2096,False
+2,3.1.2,Maya Calendar,300,2572,False
+2,3.1.3,Clock Hands,579,14682,True
+2,3.1.4,Y3K Problem,893,1418,True
+2,3.1.5,Leap Year or Not Leap Year and ...,10070,5376,False
+2,3.1.6,Watching Watches,10339,429,False
+2,3.1.7,Time Zones,10371,763,False
+2,3.1.8,The decadary watch,10683,1755,False
+2,3.1.9,How old are you?,11219,5110,False
+2,3.1.10,Dates,11356,800,False
+2,3.1.11,Mirror Clock,11650,2907,False
+2,3.1.12,Alarm Clock,11677,5358,False
+2,3.1.13,Cancer or Scorpio,11947,1234,True
+2,3.1.14,Coming Home,11958,1109,False
+2,3.1.15,Doom's Day Algorithm,12019,1974,False
+2,3.1.16,Schedule of a Married Man,12136,1210,False
+2,3.1.17,Electricity,12148,339,False
+2,3.1.18,February 29,12439,1027,False
+2,3.1.19,Hours and Minutes,12531,1837,False
+2,3.2.1,Student Grants,144,2384,False
+2,3.2.2,Code Generation,214,141,False
+2,3.2.3,Processing MX Records,335,284,False
+2,3.2.4,Interpreting Control Sequences,337,1348,False
+2,3.2.5,Transferable Voting (II),349,436,False
+2,3.2.6,Making the Grade,381,623,False
+2,3.2.7,Message Routing,405,334,False
+2,3.2.8,Amazing,556,1308,True
+2,3.2.9,Parking Lot,603,436,False
+2,3.2.10,Shark,830,219,False
+2,3.2.11,Loading a Cargo Ship,945,93,False
+2,3.2.12,Interpreter,10033,3894,False
+2,3.2.13,AutoFish,10134,331,False
+2,3.2.14,Australian Voting,10142,3354,False
+2,3.2.15,Automated Judge Script,10188,2652,False
+2,3.2.16,Graphical Editor,10267,3188,False
+2,3.2.17,Chasing After Don Giovanni,10961,123,False
+2,3.2.18,Little Ali's Little Brother!,11140,284,False
+2,3.2.19,Energy Saving Microcontroller,11717,315,False
+2,3.2.20,All Integer Average,12060,822,True
+2,3.2.21,Mobile Casanova,12085,636,True
+2,3.2.22,Garbage Collection,12608,290,False
+4,1.1.1,Borrowers,230,1070,False
+4,1.1.2,Mapmaker,394,2393,False
+4,1.1.3,Machined Surfaces,414,8122,False
+4,1.1.4,Synching Signals,467,686,False
+4,1.1.5,Permutation Arrays,482,5066,False
+4,1.1.6,Box of Bricks,591,18690,False
+4,1.1.7,False coin,665,1037,False
+4,1.1.8,487--3279,755,3052,False
+4,1.1.9,Jolly Jumpers,10038,25505,True
+4,1.1.10,Hartals,10050,12054,False
+4,1.1.11,Soundex,10260,7522,False
+4,1.1.12,Let's Play Magic!,10978,988,False
+4,1.1.13,Just Finish it up,11093,1077,False
+4,1.1.14,Group Reverse,11192,6466,False
+4,1.1.15,Only I did it!,11222,1302,False
+4,1.1.16,Newspaper,11340,6553,True
+4,1.1.17,Musical Loop,11496,1478,False
+4,1.1.18,No Problem,11608,3080,False
+4,1.1.19,Alaska,11850,2361,False
+4,1.1.20,Pole Position,12150,639,False
+4,1.1.21,Army Buddies,12356,2118,True
+4,1.2.1,The Blocks Problem,101,13978,False
+4,1.2.2,Matty's Blocks,434,847,False
+4,1.2.3,"Mirror, Mirror",466,1465,False
+4,1.2.4,Error Correction,541,9852,False
+4,1.2.5,Flip-Flop the Squarelotron,10016,861,False
+4,1.2.6,Free spots,10703,2941,False
+4,1.2.7,Rotated square,10855,2006,True
+4,1.2.8,Spiral Tap,10920,1826,True
+4,1.2.9,Add bricks in the wall,11040,1626,False
+4,1.2.10,Symmetric Matrix,11349,2263,False
+4,1.2.11,Have Fun with Matrices,11360,1530,False
+4,1.2.12,Grid Successors,11581,1330,True
+4,1.2.13,Formula 1,11835,484,False
+4,1.2.14,Brothers,12187,423,False
+4,1.2.15,Polyomino Composer,12291,252,False
+4,1.2.16,NumPuzz I,12398,537,False
+4,1.3.1,Searching Quickly,123,3127,False
+4,1.3.2,ID Codes,146,12006,True
+4,1.3.3,Unix ls,400,4511,False
+4,1.3.4,Little Black Book,450,1645,False
+4,1.3.5,Head Judge Headache,790,271,False
+4,1.3.6,Lunch in Grid City,855,1783,False
+4,1.3.7,Wordfish,1209,373,False
+4,1.3.8,A mid-summer night's dream.,10057,1801,False
+4,1.3.9,What is the Median?,10107,12650,True
+4,1.3.10,Football (aka Soccer),10194,3245,False
+4,1.3.11,Contest Scoreboard,10258,4724,True
+4,1.3.12,Football Sort,10698,455,False
+4,1.3.13,Colin and Ryan,10880,1372,False
+4,1.3.14,Children's Game,10905,3795,False
+4,1.3.15,Building designing,11039,2188,False
+4,1.3.16,Sort! Sort!! and Sort!!!,11321,2230,False
+4,1.3.17,Image Coding,11588,1770,False
+4,1.3.18,Automate the Grades,11777,5417,False
+4,1.3.19,A Minimum Land Price,11824,1641,False
+4,1.3.20,Birthdates,12541,1764,False
+4,1.4.1,"One Little, Two Little, Three Little Endians",594,4216,False
+4,1.4.2,Date Bugs,700,1397,False
+4,1.4.3,Jollybee Tournament,1241,506,False
+4,1.4.4,The Most Potent Corner,10264,1433,True
+4,1.4.5,Grey Codes,11173,1604,False
+4,1.4.6,"Brother Arif, Please feed us!",11760,705,False
+4,1.4.7,Multitasking,11926,1504,True
+4,1.4.8,Splitting Numbers,11933,2520,True
+4,1.5.1,Broken Keyboard (a.k.a. Beiju Text),11988,4845,True
+4,1.6.1,"""Accordian"" Patience",127,3102,False
+4,1.6.2,Rails,514,7905,True
+4,1.6.3,Anagrams by Stack,732,1249,True
+4,1.6.4,Containers,1062,1436,True
+4,1.6.5,Unique Factorization,10858,556,False
+4,1.7.1,Team Queue,540,3569,False
+4,1.7.2,The Lonesome Cargo Distributor,10172,946,True
+4,1.7.3,Ferry Loading III,10901,1699,True
+4,1.7.4,Throwing cards away I,10935,6389,False
+4,1.7.5,Ferry Loading IV,11034,2268,True
+4,1.7.6,Printer Queue,12100,1510,False
+4,1.7.7,That is Your Queue,12207,655,False
+4,2.1.1,Word Index,417,5531,False
+4,2.1.2,The Department of Redundancy Department,484,7992,False
+4,2.1.3,Entropy Text Analyzer,860,462,False
+4,2.1.4,Genes,939,315,False
+4,2.1.5,File Fragmentation,10132,2067,False
+4,2.1.6,CDVII,10138,835,False
+4,2.1.7,Hardwood Species,10226,5499,True
+4,2.1.8,Babelfish,10282,5615,False
+4,2.1.9,Hay Points,10295,4145,False
+4,2.1.10,SQF Problems,10686,344,False
+4,2.1.11,Open Source,11239,1354,False
+4,2.1.12,Conformity,11286,2796,True
+4,2.1.13,Bankrupt Baker,11308,1000,False
+4,2.1.14,Exhibition,11348,512,False
+4,2.1.15,Unique Snowflakes,11572,2272,True
+4,2.1.16,Ballot evaluation,11629,1142,False
+4,2.1.17,Document Analyzer,11860,261,False
+4,2.1.18,Do Your Own Homework,11917,2058,False
+4,2.1.19,Updating a Dictionary,12504,736,False
+4,2.1.20,Slogan Learning of Princess,12592,1757,False
+4,2.2.1,Black Box,501,1274,False
+4,2.2.2,Lemmings Battle!,978,1545,True
+4,2.2.3,Andy's First Dictionary,10815,7379,False
+4,2.2.4,Andy's Second Dictionary,11062,1468,False
+4,2.2.5,Hoax or what,11136,2083,True
+4,2.2.6,CD,11849,4199,True
+4,2.2.7,Just Prune The List,12049,1422,False
+4,2.3.1,Argus,1203,2357,True
+4,2.3.2,Add All,10954,7632,True
+4,2.3.3,I Can Guess the Data Structure!,11995,4634,True
+4,3.1.1,The Forrest for the Trees,599,1946,True
+4,3.1.2,Matrix Transpose,10895,1775,True
+4,3.1.3,My Dear Neighbours,10928,1711,False
+4,3.1.4,Demanding Dilemma,11550,756,False
+4,3.1.5,Easy Problem from Rujia Liu?,11991,3698,True
+4,3.2.1,Network Connections,793,5182,True
+4,3.2.2,The Suspects,1197,1056,False
+4,3.2.3,War,10158,1712,False
+4,3.2.4,Forests,10227,1271,False
+4,3.2.5,Waking up brain,10507,1878,True
+4,3.2.6,Ubiquitous Religions,10583,4402,False
+4,3.2.7,Friends,10608,5211,False
+4,3.2.8,Nature,10685,2118,False
+4,3.2.9,Virtual Friends,11503,3878,True
+4,3.2.10,Money Matters,11690,1187,False
+4,3.3.1,Quadtrees,297,3267,False
+4,3.3.2,SKYLINE,1232,368,False
+4,3.3.3,Frequent values,11235,2843,True
+4,3.3.4,Census,11297,470,False
+4,3.3.5,Stern-Brocot Tree,11350,967,False
+4,3.3.6,"Ahoy, Pirates!",11402,1199,True
+4,3.3.7,Potentiometers,12086,2093,False
+4,3.3.8,Interval Product,12532,1907,True
+6,1.1.1,Ecological Bin Packing,102,24490,False
+6,1.1.2,Quirksome Squares,256,8059,False
+6,1.1.3,Integer Sequences from Addition of Terms,927,1487,True
+6,1.1.4,Expert Enough?,1237,2471,True
+6,1.1.5,Fractions Again?!,10976,3989,True
+6,1.1.6,Necklace,11001,1303,False
+6,1.1.7,Open Credit System,11078,2341,False
+6,1.2.1,The Skyline Problem,105,8928,False
+6,1.2.2,Run,347,1179,False
+6,1.2.3,Magic Numbers,471,1488,False
+6,1.2.4,Nonstop Travel,617,871,False
+6,1.2.5,Division,725,5049,False
+6,1.2.6,Sales,1260,2295,True
+6,1.2.7,Vito's Family,10041,13998,False
+6,1.2.8,Closest Sums,10487,4908,True
+6,1.2.9,Antiarithmetic?,10730,1141,False
+6,1.2.10,Tour de France,11242,2065,True
+6,1.2.11,Start Grid,12488,745,False
+6,1.2.12,Memory Overflow,12583,1028,False
+6,1.3.1,Recycling,154,2784,False
+6,1.3.2,Perfect Hash,188,1407,False
+6,1.3.3,Lotto,441,7653,True
+6,1.3.4,Ecosystem,626,1040,False
+6,1.3.5,Triple Ties: The Organizer's Nightmare,703,800,False
+6,1.3.6,Dart-a-Mania,735,1066,True
+6,1.3.7,The path in the colored field,10102,2823,True
+6,1.3.8,Counting Rectangles,10502,1692,False
+6,1.3.9,The Wedding,10662,819,False
+6,1.3.10,Largest Square,10908,1895,False
+6,1.3.11,Maximum Product,11059,4376,False
+6,1.3.12,Tele-loto,11975,133,False
+6,1.3.13,Ant's Shopping Mall,12498,280,False
+6,1.3.14,Movie Police,12515,274,False
+6,1.4.1,Cube painting,253,3482,False
+6,1.4.2,Safebreaker,296,916,False
+6,1.4.3,Perfect Cubes,386,5264,False
+6,1.4.4,Sumsets,10125,2840,False
+6,1.4.5,(2/3/4)-D Sqr/Rects/Cubes/Boxes?,10177,1753,False
+6,1.4.6,Rat Attack,10360,2641,False
+6,1.4.7,Blocks,10365,1769,False
+6,1.4.8,The Sum Equals the Product,10483,388,False
+6,1.4.9,Citizen attention offices,10660,1018,True
+6,1.4.10,Triangle Counting,10973,405,False
+6,1.4.11,Tautology,11108,531,False
+6,1.4.12,Grocery store,11236,991,True
+6,1.4.13,Three-square,11342,1618,False
+6,1.4.14,Blackboard Bonanza,11548,337,False
+6,1.4.15,Simple Equations,11565,2238,True
+6,1.4.16,Argentina,11804,1275,False
+6,1.4.17,Dice,11959,471,False
+6,1.5.1,Bandwidth,140,2617,False
+6,1.5.2,Switching Channels,234,178,False
+6,1.5.3,Block Voting,435,1413,False
+6,1.5.4,Don't Get Rooked,639,3149,False
+6,1.5.5,Zones,1047,549,True
+6,1.5.6,Network,1064,145,False
+6,1.5.7,The broken pedometer,11205,1025,False
+6,1.5.8,Dig the Holes,11412,289,False
+6,1.5.9,Grid Game,11553,1217,True
+6,1.5.10,Social Constraints,11742,1230,False
+6,1.5.11,Overlapping Scenes,12249,161,False
+6,1.5.12,Water Gate Management,12346,294,False
+6,1.5.13,Fun Coloring,12348,135,False
+6,1.5.14,Help Dexter,12406,535,False
+6,1.5.15,Bars,12455,2114,True
+6,1.6.1,The Sultan's Successors,167,6442,False
+6,1.6.2,Call Forwarding,380,788,False
+6,1.6.3,The Settlers of Catan,539,2878,False
+6,1.6.4,CD,624,7283,True
+6,1.6.5,Passwords,628,2475,False
+6,1.6.6,"All Walks of length ""n"" from the first node",677,1079,False
+6,1.6.7,The Hamming Distance Problem,729,4561,False
+6,1.6.8,8 Queens Chess Problem,750,4183,False
+6,1.6.9,Hanoi Tower Troubles Again!,10276,3280,False
+6,1.6.10,23 out of 5,10344,3714,False
+6,1.6.11,Marcus,10452,2350,False
+6,1.6.12,Y2K Accounting Bug,10576,1120,True
+6,1.6.13,Back to the 8-Queens,11085,2298,True
+6,1.7.1,Budget Travel,222,864,False
+6,1.7.2,Transportation,301,1562,False
+6,1.7.3,Mapping the Swaps,331,1540,False
+6,1.7.4,Boggle Blitz,487,556,False
+6,1.7.5,Prime Ring Problem,524,6122,True
+6,1.7.6,Jugs,571,2022,False
+6,1.7.7,Sum It Up,574,4426,True
+6,1.7.8,Bundling Newspapers,598,929,False
+6,1.7.9,Hamiltonian Cycle,775,433,False
+6,1.7.10,Garden of Eden,10001,1014,False
+6,1.7.11,Knuth's Permutation,10063,1411,False
+6,1.7.12,Find the Permuted String,10460,583,False
+6,1.7.13,Help the Leaders,10475,453,False
+6,1.7.14,The dominoes solitaire,10503,1498,True
+6,1.7.15,The Ouroboros problem,10506,372,False
+6,1.7.16,Bad Code,10950,350,False
+6,1.7.17,The problem of the crazy linguist,11201,294,False
+6,1.7.18,DNA,11961,261,False
+6,1.8.1,Krypton Factor,129,1810,False
+6,1.8.2,Stamps,165,1001,False
+6,1.8.3,Graph Coloring,193,2980,True
+6,1.8.4,Firetruck,208,1632,False
+6,1.8.5,LED Test,416,1199,True
+6,1.8.6,Bank (Not Quite O.C.R.),433,456,False
+6,1.8.7,Pizza Anyone?,565,700,False
+6,1.8.8,Little Bishops,861,2108,False
+6,1.8.9,Numerical Maze,868,327,False
+6,1.8.10,Password,1262,676,True
+6,1.8.11,Place the Guards,10094,438,False
+6,1.8.12,Queue,10128,1726,False
+6,1.8.13,ASCII Labyrinth,10582,282,False
+6,1.8.14,Going in Cycle!!,11090,571,False
+6,2.1.1,Jill Rides Again,507,4369,False
+6,2.1.2,Maximum Sub-sequence Product,787,1841,True
+6,2.1.3,The jackpot,10684,7159,True
+6,2.1.4,Garbage Heap,10755,1231,True
+6,2.2.1,Maximum Sum,108,15997,True
+6,2.2.2,Largest Submatrix,836,3145,False
+6,2.2.3,Localized Summing for Blurring,983,612,False
+6,2.2.4,Take the Land,10074,3753,False
+6,2.2.5,Largest Block,10667,1754,False
+6,2.2.6,Maximum sum on a torus,10827,2272,True
+6,2.2.7,Area,11951,981,True
+6,2.3.1,History Grading,111,9142,False
+6,2.3.2,Testing the CATCHER,231,5065,False
+6,2.3.3,The Tower of Babylon,437,3364,False
+6,2.3.4,What Goes Up,481,4423,True
+6,2.3.5,Strategic Defense Initiative,497,3574,False
+6,2.3.6,Tiling Up Blocks,1196,554,False
+6,2.3.7,Is Bigger Smarter?,10131,6796,False
+6,2.3.8,Wavio Sequence,10534,2737,False
+6,2.3.9,Nested Dolls,11368,427,False
+6,2.3.10,Trainsorting,11456,2219,True
+6,2.3.11,Murcia's Skyline,11790,2066,True
+6,2.4.1,Dividing coins,562,7560,False
+6,2.4.2,Diving for Gold,990,1993,False
+6,2.4.3,Sum of Different Primes,1213,1386,False
+6,2.4.4,SuperSale,10130,7623,False
+6,2.4.5,Ferry Loading,10261,1358,False
+6,2.4.6,Divisible Group Sums,10616,2286,True
+6,2.4.7,Luggage,10664,3539,False
+6,2.4.8,Trouble of 13-Dots,10819,2062,True
+6,2.4.9,Boxes,11003,1444,False
+6,2.4.10,Term Strategy,11341,553,False
+6,2.4.11,Let's Yum Cha!,11566,439,True
+6,2.4.12,Best Coalitions,11658,478,False
+6,2.5.1,Dollars,147,7797,False
+6,2.5.2,Making Change,166,2315,False
+6,2.5.3,Let Me Count The Ways,357,9302,True
+6,2.5.4,Coin Change,674,11296,False
+6,2.5.5,e-Coins,10306,2218,True
+6,2.5.6,Pay the Price,10313,1387,False
+6,2.5.7,Ingenuous Cubrency,11137,4118,False
+6,2.5.8,Exact Change,11517,2199,True
+6,2.6.1,Getting in Line,216,3430,True
+6,2.6.2,Collecting Beepers,10496,2723,True
+6,2.6.3,Shopping Trip,11284,551,True
+6,2.7.1,Unidirectional TSP,116,6810,False
+6,2.7.2,Spreadsheet,196,1316,False
+6,2.7.3,String Popping,1261,469,False
+6,2.7.4,Cutting Sticks,10003,9379,False
+6,2.7.5,Divisibility,10036,2951,False
+6,2.7.6,Test the Rods,10086,533,False
+6,2.7.7,Flight Planner,10337,1872,True
+6,2.7.8,Game Show Math,10400,1848,False
+6,2.7.9,The Marriage Interview :-),10446,1186,False
+6,2.7.10,Homer Simpson,10465,3862,False
+6,2.7.11,Determine it,10520,790,False
+6,2.7.12,The Poor Giant,10688,574,False
+6,2.7.13,Bar Codes,10721,2319,True
+6,2.7.14,Marks Distribution,10910,1898,False
+6,2.7.15,Simple Minded Hashing,10912,1227,False
+6,2.7.16,How do you add?,10943,4130,True
+6,2.7.17,Lowest Price in Town,10980,731,False
+6,2.7.18,A Grouping Problem,11026,579,False
+6,2.7.19,Squares,11407,1659,False
+6,2.7.20,Chest of Drawers,11420,1158,False
+6,2.7.21,Wedding shopping,11450,3690,False
+6,2.7.22,sqrt log sin,11703,1632,False
+6,3.1.1,Station Balance,410,1579,False
+6,3.1.2,Radar Installation,1193,326,False
+6,3.1.3,Minimal coverage,10020,2617,False
+6,3.1.4,Watering Grass,10382,1311,False
+6,3.1.5,Coin Collector,11264,1642,True
+6,3.1.6,The Bus Driver Problem,11389,3531,True
+6,3.1.7,Gas Stations,12321,441,False
+6,3.1.8,Scarecrow,12405,2898,True
+6,3.2.1,Shoemaker's Problem,10026,5440,False
+6,3.2.2,Bridge,10037,2521,False
+6,3.2.3,The Grand Dinner,10249,1738,False
+6,3.2.4,Work Reduction,10670,1277,False
+6,3.2.5,Foreign Exchange,10763,3552,False
+6,3.2.6,The Mad Numerologist,10785,1337,False
+6,3.2.7,"The Trip, 2007",11100,1394,True
+6,3.2.8,WFF 'N PROOF,11103,438,False
+6,3.2.9,Setting Problems,11269,400,False
+6,3.2.10,Dragon of Loowater,11292,5956,True
+6,3.2.11,Shopaholic,11369,3217,False
+6,3.2.12,Commando War,11729,2863,False
+6,3.2.13,Boiled Eggs,11900,3390,False
+6,3.2.14,A Match Making Problem,12210,1634,True
+6,3.2.15,Perfect Choir,12485,469,False
+6,3.3.1,Packets,311,2372,False
+6,3.3.2,Parliament,668,622,False
+6,3.3.3,ShellSort,10152,3863,False
+6,3.3.4,All in All,10340,14274,False
+6,3.3.5,Ferry Loading II,10440,1207,False
+6,3.3.6,Editor Nottoobad,10602,1151,False
+6,3.3.7,Maximum Sum (II),10656,3492,True
+6,3.3.8,Marbles on a tree,10672,772,False
+6,3.3.9,Camel trading,10700,2816,False
+6,3.3.10,Ants,10714,3063,False
+6,3.3.11,Bit Mask,10718,1482,True
+6,3.3.12,Troublemakers,10982,320,False
+6,3.3.13,Wine trading in Gergovia,11054,2385,False
+6,3.3.14,Dynamic Frog,11157,1362,True
+6,3.3.15,Annoying painting tool,11230,460,False
+6,3.3.16,Antimonotonicity,11240,476,False
+6,3.3.17,Discrete Pursuit,11335,175,False
+6,3.3.18,Fill the Square,11520,1851,False
+6,3.3.19,Simple Adjacency Maximization,11532,513,False
+6,3.3.20,Moliu Number Generator,11567,920,False
+6,3.3.21,Short Story Competition,12482,496,False
+6,4.1.1,Dropping Balls,679,3830,False
+6,4.1.2,Popes,957,1187,False
+6,4.1.3,The Stern-Brocot Number System,10077,3991,False
+6,4.1.4,Where is the Marble?,10474,9124,False
+6,4.1.5,Helping Fill Bates,10567,1208,True
+6,4.1.6,The Playboy Chimp,10611,5163,False
+6,4.1.7,Number Sequence,10706,1993,False
+6,4.1.8,The New Rule in Euphomia,10742,758,False
+6,4.1.9,Exact Sum,11057,6767,True
+6,4.1.10,Small Factors,11621,921,False
+6,4.1.11,Cantor,11701,328,False
+6,4.1.12,N + NOD (N),11876,1273,False
+6,4.1.13,Grapevine,12192,838,True
+6,4.2.1,Solve It,10341,5580,True
+6,4.2.2,Fill the Containers,11413,2081,True
+6,4.2.3,Internal Rate of Return,11881,371,False
+6,4.2.4,Through the Desert,11935,957,False
+6,4.2.5,The Monkey and the Oiled Bamboo,12032,2175,True
+6,4.2.6,Electric Bill,12190,366,False
+6,4.3.1,Bit Maps,183,1153,True
+7,1.1.1,Mutant Flatworld Explorers,118,6183,False
+7,1.1.2,Theseus and the Minotaur,168,1192,False
+7,1.1.3,Vertex,280,3989,False
+7,1.1.4,Domino Effect,318,1158,False
+7,1.1.5,Mapping the Route,614,628,False
+7,1.1.6,Coast Tracker,824,574,False
+7,1.1.7,Exchange Rates,10113,845,False
+7,1.1.8,Robot Motion,10116,2930,False
+7,1.1.9,Maze Traversal,10377,1951,False
+7,1.1.10,Monitoring the Amazon,10687,570,False
+7,1.1.11,Sticker Collector Robot,11831,2462,True
+7,1.1.12,Dominator,11902,1514,False
+7,1.1.13,Knight in a War Grid,11906,1144,True
+7,1.1.14,"As Long as I Learn, I Live",12376,974,False
+7,1.1.15,Forwarding Emails,12442,1597,True
+7,1.1.16,Wedding of Sultan,12582,885,False
+7,1.2.1,Il Gioco dell'X,260,3361,False
+7,1.2.2,The Seasonal War,352,6864,False
+7,1.2.3,Graph Connectivity,459,5892,False
+7,1.2.4,Wetlands of Florida,469,3513,False
+7,1.2.5,Oil Deposits,572,11014,False
+7,1.2.6,The die is cast,657,2410,False
+7,1.2.7,Lakes,722,680,False
+7,1.2.8,The Same Game,758,294,False
+7,1.2.9,Monkeys in a Regular Forest,776,977,False
+7,1.2.10,Contour Painting,782,643,False
+7,1.2.11,Maze Exploration,784,3651,False
+7,1.2.12,Grid Colouring,785,1796,False
+7,1.2.13,Deciding victory in Go,852,939,False
+7,1.2.14,Counting Cells in a Blob,871,2021,False
+7,1.2.15,Ancient Messages,1103,971,True
+7,1.2.16,Rank the Languages,10336,4286,False
+7,1.2.17,2D-Nim,10707,281,False
+7,1.2.18,You want what filled?,10946,2664,False
+7,1.2.19,Continents,11094,2677,True
+7,1.2.20,Equidivisions,11110,1556,False
+7,1.2.21,Counting Stars,11244,2803,False
+7,1.2.22,Square Sums,11470,2378,False
+7,1.2.23,Dominos 2,11518,2293,False
+7,1.2.24,Getting Gold,11561,977,False
+7,1.2.25,Poor Trade Advisor,11749,488,False
+7,1.2.26,Battleships,11953,2518,True
+7,1.3.1,Following Orders,124,3201,False
+7,1.3.2,Rare Order,200,5368,False
+7,1.3.3,Ordering,872,1584,True
+7,1.3.4,Ordering Tasks,10305,9696,True
+7,1.3.5,Beverages,11060,2701,True
+7,1.3.6,Pick up sticks,11686,1362,False
+7,1.4.1,Bicoloring,10004,14965,True
+7,1.4.2,Montesco vs Capuleto,10505,1041,False
+7,1.4.3,Place the Guards,11080,2203,True
+7,1.4.4,Claw Decomposition,11396,1765,True
+7,1.5.1,Network,315,5246,True
+7,1.5.2,Street Directions,610,1266,False
+7,1.5.3,Critical Links,796,3071,True
+7,1.5.4,Tourist Guide,10199,2699,False
+7,1.5.5,Doves and bombs,10765,994,True
+7,1.6.1,Calling Circles,247,2650,True
+7,1.6.2,Sub-dictionary,1229,204,False
+7,1.6.3,Test,10731,912,False
+7,1.6.4,Dominos,11504,2844,True
+7,1.6.5,Trust groups,11709,1267,False
+7,1.6.6,Lighting Away,11770,1191,False
+7,1.6.7,Come and Go,11838,2195,True
+7,2.1.1,Re-connecting Computer Sites,908,2340,False
+7,2.1.2,IP-TV,1174,932,False
+7,2.1.3,Oreon,1208,701,False
+7,2.1.4,Anti Brute Force Lock,1235,875,False
+7,2.1.5,Freckles,10034,7376,False
+7,2.1.6,Transportation system.,11228,1838,True
+7,2.1.7,Dark roads,11631,3883,True
+7,2.1.8,Expensive subway,11710,1311,False
+7,2.1.9,Airports,11733,1624,False
+7,2.1.10,Heavy Cycle Edges,11747,2305,True
+7,2.1.11,Driving Range,11857,1073,False
+7,2.2.1,Frogger,534,3965,False
+7,2.2.2,Heavy Cargo,544,3676,False
+7,2.2.3,X-Plosives,1160,887,False
+7,2.2.4,The Bug Sensor Problem,1216,324,False
+7,2.2.5,RACING,1234,576,False
+7,2.2.6,Audiophobia,10048,4808,True
+7,2.2.7,The Tourist Guide,10099,5219,False
+7,2.2.8,Highways,10147,2037,False
+7,2.2.9,Arctic Network,10369,3458,True
+7,2.2.10,Connect the Campus,10397,2946,False
+7,2.2.11,Is There A Second Way Left?,10462,1242,False
+7,2.2.12,ACM Contest and Blackout,10600,2785,True
+7,2.2.13,Traffic Flow,10842,1669,False
+7,3.1.1,A Node Too Far,336,6267,False
+7,3.1.2,Shipping Routes,383,2472,False
+7,3.1.3,Galactic Import,388,611,False
+7,3.1.4,Word Transformation,429,3110,True
+7,3.1.5,The Net,627,1621,False
+7,3.1.6,We Ship Cheap,762,2691,False
+7,3.1.7,Spreading The News,924,2790,True
+7,3.1.8,The mysterious X network,1148,548,False
+7,3.1.9,All Roads Lead Where?,10009,2919,False
+7,3.1.10,Knights in FEN,10422,1850,False
+7,3.1.11,Gopher and Hawks,10610,953,False
+7,3.1.12,Bombs! NO they are Mines!!,10653,3305,True
+7,3.1.13,"The Party, Part I",10959,2030,False
+7,3.2.1,Robot,314,1254,True
+7,3.2.2,Dungeon Master,532,5181,False
+7,3.2.3,Chinese Checkers,859,158,False
+7,3.2.4,Getaway,949,144,False
+7,3.2.5,Erdos Numbers,10044,1960,False
+7,3.2.6,Playing with Wheels,10067,4022,False
+7,3.2.7,Doublets,10150,1610,False
+7,3.2.8,Enchanted Forest,10977,754,False
+7,3.2.9,Basic wall maze,11049,735,False
+7,3.2.10,Mall Mania,11101,862,True
+7,3.2.11,Crazy King,11352,1255,False
+7,3.2.12,Fire!,11624,1867,False
+7,3.2.13,Krochanska is Here!,11792,360,False
+7,3.2.14,Unlock the Lock,12160,1066,True
+7,3.3.1,Number Maze,929,2731,True
+7,3.3.2,Mice and Maze,1112,1836,True
+7,3.3.3,Subway,10389,576,False
+7,3.3.4,Sending email,10986,5066,True
+7,3.4.1,Finding Nemo,1202,131,False
+7,3.4.2,Travel,10166,221,False
+7,3.4.3,From Dusk Till Dawn,10187,786,False
+7,3.4.4,Fire Station,10278,1321,False
+7,3.4.5,Rough Roads,10356,861,False
+7,3.4.6,Fill,10603,1039,False
+7,3.4.7,Lift Hopping,10801,2566,True
+7,3.4.8,The Great Escape,10967,145,False
+7,3.4.9,Minefield,11338,288,False
+7,3.4.10,Full Tank?,11367,834,False
+7,3.4.11,Airport Setup,11377,619,False
+7,3.4.12,Babel,11492,1015,True
+7,3.4.13,Route Change,11833,361,False
+7,3.4.14,Highest Paid Toll,12047,685,True
+7,3.4.15,Almost Shortest Path,12144,387,False
+7,3.5.1,Wormholes,558,5834,True
+7,3.5.2,Traffic,10449,912,True
+7,3.5.3,XYZZY,10557,1770,True
+7,3.5.4,Flying to Fredericton,11280,616,False
+7,4.1.1,Non-Stop Travel,341,2231,False
+7,4.1.2,MPI Maelstrom,423,2821,False
+7,4.1.3,Risk,567,4715,False
+7,4.1.4,Page Hopping,821,4432,True
+7,4.1.5,USHER,1233,123,False
+7,4.1.6,Interstar Transport,1247,303,False
+7,4.1.7,Meeting Prof. Miguel...,10171,2025,True
+7,4.1.8,Avoiding Your Boss,10354,733,False
+7,4.1.9,New to Bangladesh?,10525,483,False
+7,4.1.10,Road Construction,10724,404,False
+7,4.1.11,The Orc Attack,10793,805,False
+7,4.1.12,Thunder Mountain,10803,1631,False
+7,4.1.13,"Bear with me, again..",10947,639,False
+7,4.1.14,05-2 Rendezvous,11015,1778,False
+7,4.1.15,Commandos,11463,2284,True
+7,4.1.16,Edgetown's Traffic Jams,12319,285,False
+7,4.2.1,Arbitrage,104,4184,True
+7,4.2.2,Numbering Paths,125,1992,False
+7,4.2.3,Trip Routing,186,1005,False
+7,4.2.4,Cat and Mouse,274,476,False
+7,4.2.5,Arbitrage (II),436,1477,False
+7,4.2.6,Identifying Concurrent Events,334,573,True
+7,4.2.7,Airline Comparison,869,817,False
+7,4.2.8,"No more prerequisites, please!",925,265,False
+7,4.2.9,Degrees of Separation,1056,900,True
+7,4.2.10,The Geodetic Set Problem,1198,135,False
+7,4.2.11,The Scrooge Co Problem,11047,351,False
+7,5.1.1,Software Allocation,259,1715,True
+7,5.1.2,Internet Bandwidth,820,4787,True
+7,5.1.3,The Problem with the Problem Setter,10092,1427,False
+7,5.1.4,Councilling,10511,528,False
+7,5.1.5,Collectors Problem,10779,680,False
+7,5.1.6,My T-shirt suits me,11045,1908,False
+7,5.1.7,Monkeys in the Emei Mountain,11167,317,True
+7,5.1.8,Clever Naming Patterns,11418,677,False
+7,5.2.1,Power Transmission,10330,2060,False
+7,5.2.2,Sabotage,10480,1365,False
+7,5.2.3,Down Went The Titanic,11380,529,True
+7,5.2.4,Angry Programmer,11506,1169,True
+7,5.2.5,March of the Penguins,12125,341,True
+7,6.1.1,Tree Summing,112,5693,False
+7,6.1.2,Climbing Trees,115,1681,False
+7,6.1.3,Trees on the level,122,3950,False
+7,6.1.4,Tree Recovery,536,4543,False
+7,6.1.5,Tree,548,2100,False
+7,6.1.6,Is It A Tree?,615,2326,False
+7,6.1.7,The Falling Leaves,699,2560,False
+7,6.1.8,S-Trees,712,2101,False
+7,6.1.9,Not so Mobile,839,2456,False
+7,6.1.10,Roads in the North,10308,909,False
+7,6.1.11,The Tree Root,10459,766,True
+7,6.1.12,"Pre, in and post",10701,2395,False
+7,6.1.13,Cockroach Escape Networks,10805,291,True
+7,6.1.14,Close Relatives,11131,158,False
+7,6.1.15,Expressions,11234,1026,False
+7,6.1.16,Family Tree,11615,379,False
+7,6.1.17,Flight Planning,11695,317,True
+7,6.1.18,Another Crisis,12186,511,False
+7,6.1.19,Binary Search Tree,12347,1054,False
+7,6.2.1,The Postal Worker Rings Once,117,3154,False
+7,6.2.2,The House Of Santa Claus,291,5266,False
+7,6.2.3,The Necklace,10054,2621,True
+7,6.2.4,Play on Words,10129,2354,False
+7,6.2.5,Snow Clearing,10203,560,True
+7,6.2.6,Morning Walk,10596,874,True
+7,6.3.1,Sorting Slides,663,515,False
+7,6.3.2,The dog task,670,932,False
+7,6.3.3,A Plug for UNIX,753,1035,False
+7,6.3.4,Machine Schedule,1194,272,False
+7,6.3.5,Gopher II,10080,2459,False
+7,6.3.6,Antenna Placement,10349,845,True
+7,6.3.7,Nuts and Bolts,11138,1033,True
+7,6.3.8,Factors and Multiples,11159,969,True
+7,6.3.9,SAM I AM,11419,684,False
+7,6.3.10,Guardian of Decency,12083,322,False
+7,6.3.11,Cat vs. Dog,12168,266,False
+7,7.1.1,Stacking Boxes,103,6490,False
+7,7.1.2,Project Scheduling,452,1062,True
+7,7.1.3,Longest Paths,10000,4603,False
+7,7.1.4,Tower of Cubes,10051,1780,False
+7,7.1.5,Hippity Hopscotch,10259,741,False
+7,7.1.6,Longest Run on a Snowboard,10285,3806,True
+7,7.1.7,Liftless EME,10350,614,True
+7,7.2.1,Walking on the Safe Side,825,2347,False
+7,7.2.2,Walking Around Wisely,926,669,False
+7,7.2.3,How Many?,986,351,False
+7,7.2.4,"Many Paths, One Destination",988,1007,True
+7,7.2.5,Injured Queen Problem,10401,1012,True
+7,7.2.6,How Many Dependencies?,10926,1938,False
+7,7.2.7,Little Red Riding Hood,11067,897,False
+7,7.2.8,Waterland,11655,219,False
+7,7.2.9,Checkers,11957,555,True
+7,7.3.1,Always on the run,590,1304,False
+7,7.3.2,Winterim Backpacking Trip,907,811,True
+7,7.3.3,TV game,910,626,False
+7,7.3.4,Adventures in Moving - Part IV,10201,1102,False
+7,7.3.5,Traveling Politician,10543,592,False
+7,7.3.6,Teobaldo's Trip,10681,837,False
+7,7.3.7,Travelling Salesman,10702,1254,False
+7,7.3.8,Segments,10874,473,False
+7,7.3.9,Walking on a Grid,10913,835,True
+7,7.3.10,Alternative Arborescence,11307,442,False
+7,7.3.11,Gathering Food,11487,376,True
+7,7.3.12,Avoiding Jungle in the Dark,11545,261,False
+7,7.3.13,Optimal Cut,11782,214,False
+5,1.1.1,Hashmat the Brave Warrior,10055,48545,False
+5,1.1.2,Back to High School Physics,10071,43836,False
+5,1.1.3,Average Speed,10281,3096,False
+5,1.1.4,To Carry or not to Carry,10469,11306,False
+5,1.1.5,Back to Intermediate Math,10773,4195,True
+5,1.1.6,Etruscan Warriors Never Play Chess,11614,3539,False
+5,1.1.7,Numbering Roads,11723,4324,True
+5,1.1.8,Bafana Bafana,11805,7831,False
+5,1.1.9,Brick Game,11875,7552,True
+5,1.1.10,Feynman,12149,6001,False
+5,1.1.11,Three Families,12502,3449,False
+5,1.2.1,The 3n + 1 problem,100,83789,False
+5,1.2.2,Ackermann Functions,371,6858,False
+5,1.2.3,Perfection,382,13621,True
+5,1.2.4,Continued Fractions,834,5569,False
+5,1.2.5,Rational Neighbor,906,339,False
+5,1.2.6,Digit Counting,1225,7376,True
+5,1.2.7,Primary Arithmetic,10035,20423,False
+5,1.2.8,Peter's Smokes,10346,14438,True
+5,1.2.9,Above Average,10370,16497,False
+5,1.2.10,Odd Sum,10783,24035,False
+5,1.2.11,Code Refactoring,10879,3101,False
+5,1.2.12,Cola,11150,9188,False
+5,1.2.13,Income Tax ,11247,734,False
+5,1.2.14,Gourmet Games,11313,1325,False
+5,1.2.15,Soda Surpler,11689,5370,False
+5,1.2.16,The Coco-Cola Store,11877,5721,False
+5,1.2.17,Magic Formula,11934,3551,False
+5,1.2.18,Counting Game,12290,619,False
+5,1.2.19,Different Digits,12527,2093,False
+5,1.3.1,Rational Spiral,493,510,False
+5,1.3.2,Multiplying by Rotation,550,1273,False
+5,1.3.3,"Coconuts, Revisited",616,1589,True
+5,1.3.4,Jack and Jill,697,216,False
+5,1.3.5,Steps,846,5639,False
+5,1.3.6,The ? 1 ? 2 ? ... ? n = k problem,10025,3038,False
+5,1.3.7,Dick and Jane,10257,680,False
+5,1.3.8,Super Number,10624,522,False
+5,1.3.9,Billiard bounces,11130,865,True
+5,1.3.10,Consecutive Integers,11254,1111,True
+5,1.3.11,In The Airport,11968,318,False
+5,1.4.1,Simple calculations,10014,2621,False
+5,1.4.2,The Hotel with Infinite Rooms,10170,4238,False
+5,1.4.3,The Land of Justice,10499,6177,False
+5,1.4.4,f91,10696,15968,False
+5,1.4.5,Chessboard,10751,556,True
+5,1.4.6,Throwing cards away II,10940,3058,True
+5,1.4.7,The least possible effort,11202,435,False
+5,1.4.8,Bubble Sort,12004,926,True
+5,1.4.9,Very Big Perfect Squares,12027,345,False
+5,1.5.1,Deck,651,734,False
+5,1.5.2,Joana and the Odd Numbers,913,7503,False
+5,1.5.3,Ant on a Chessboard,10161,7162,True
+5,1.5.4,"Cats, with or without Hats",10493,932,False
+5,1.5.5,R U Kidding Mr. Feynman?,10509,1803,False
+5,1.5.6,The Eurocup is Here!,10666,486,False
+5,1.5.7,Traffic Volume,10693,1559,False
+5,1.5.8,Chinese Shuffle,10710,356,False
+5,1.5.9,Koerner's Pub,10882,295,False
+5,1.5.10,Big Chocolate,10970,12577,False
+5,1.5.11,Simple Addition,10994,1536,False
+5,1.5.12,Black and white painting,11231,1698,True
+5,1.5.13,K-Multiple Free set ,11246,526,False
+5,1.5.14,Counting Solutions to an Integral Equation,11296,930,False
+5,1.5.15,Dissecting a Hexagon,11298,252,False
+5,1.5.16,The 3-Regular Graph,11387,638,False
+5,1.5.17,Tri-Isomorphism,11393,187,False
+5,1.5.18,Fantasy of a Summation,11718,547,True
+5,1.6.1,Count on Cantor,264,8778,True
+5,1.6.2,Bee Breeding,808,988,False
+5,1.6.3,Cantor Fractions,880,1618,False
+5,1.6.4,Bee Maja,10182,2555,True
+5,1.6.5,Dermuba Triangle,10233,973,True
+5,1.6.6,A Flea on a Chessboard,10620,701,False
+5,1.6.7,Can You Solve It?,10642,2153,False
+5,1.6.8,Strange Planet,10964,396,False
+5,1.7.1,Ugly Numbers,136,19034,False
+5,1.7.2,Street Numbers,138,6871,False
+5,1.7.3,Up and Down Sequences,413,1556,False
+5,1.7.4,Humble Numbers,443,5120,True
+5,1.7.5,Self Numbers,640,5020,False
+5,1.7.6,The Collatz Sequence,694,10511,False
+5,1.7.7,Taxicab Numbers,962,456,False
+5,1.7.8,Kaprekar Numbers,974,1145,False
+5,1.7.9,Carmichael Numbers,10006,7378,False
+5,1.7.10,Smith Numbers,10042,3537,True
+5,1.7.11,Self-describing Sequence,10049,2495,False
+5,1.7.12,Bangla Numbers,10101,2721,False
+5,1.7.13,Farey sequences,10408,1678,True
+5,1.7.14,A-Sequence,10930,1231,False
+5,1.7.15,Sum of Product,11028,322,False
+5,1.7.16,B2-Sequence,11063,2146,False
+5,1.7.17,Square Numbers,11461,9526,False
+5,1.7.18,Look-and-Say sequences,11660,314,False
+5,1.7.19,Lucky Numbers,11970,1031,False
+5,1.8.1,The Cat in the Hat,107,5736,False
+5,1.8.2,Power of Cryptography,113,17856,False
+5,1.8.3,Heads / Tails Probability,474,2183,False
+5,1.8.4,Heads,545,731,False
+5,1.8.5,The Archeologists' Dilemma,701,2239,True
+5,1.8.6,Big Number,1185,1159,False
+5,1.8.7,Factstone Benchmark,10916,1902,True
+5,1.8.8,Help is needed for Dexter,11384,1579,False
+5,1.8.9,Best Compression Ever,11556,547,False
+5,1.8.10,Hello World!,11636,8525,False
+5,1.8.11,Logarithms,11666,493,False
+5,1.8.12,Blind Sorting,11714,703,False
+5,1.8.13,Cut the Silver Bar,11847,780,True
+5,1.8.14,Save from Radiation,11986,440,False
+5,1.8.15,Excessive Space Remover,12416,678,False
+5,1.9.1,The Errant Physicist,126,1149,False
+5,1.9.2,Polynomial Showdown,392,4140,False
+5,1.9.3,Polly the Polynomial,498,2873,True
+5,1.9.4,The Largest/Smallest Box ...,10215,953,False
+5,1.9.5,498-bis,10268,1405,True
+5,1.9.6,Summation of Polynomials,10302,8475,False
+5,1.9.7,The Polynomial Equation,10326,714,False
+5,1.9.8,Polynomial Remains,10586,651,True
+5,1.9.9,Quotient Polynomial,10719,1386,False
+5,1.9.10,Rain Fall,11692,205,False
+5,1.10.1,Cowculations,377,1487,True
+5,1.10.2,Skew Binary,575,12855,True
+5,1.10.3,Squares (III),636,1957,False
+5,1.10.4,An Easy Problem!,10093,2102,False
+5,1.10.5,Base Equality,10677,636,False
+5,1.10.6,Parity,10931,8195,True
+5,1.10.7,Cheapest Base,11005,1592,False
+5,1.10.8,Base -2,11121,2052,False
+5,1.10.9,The Base-1 Number System,11398,716,False
+5,1.10.10,Nice Licence Plates,12602,2132,False
+5,1.11.1,Egyptian Multiplication,276,400,False
+5,1.11.2,Simply Subsets,496,3655,False
+5,1.11.3,Numbers That Count,613,419,False
+5,1.11.4,The Trip,10137,7857,True
+5,1.11.5,"Divide, But Not Quite Conquer!",10190,3554,False
+5,1.11.6,Homogeneous squares,11055,393,False
+5,1.11.7,Humidex,11241,412,False
+5,1.11.8,H(n),11526,1908,True
+5,1.11.9,Car,11715,4414,False
+5,1.11.10,HST,11816,129,False
+5,1.11.11,Stable Grid,12036,810,True
+5,2.1.1,Integer Inquiry,424,12292,False
+5,2.1.2,Overflow,465,3825,False
+5,2.1.3,Numerically Speaking,619,1360,False
+5,2.1.4,Adding Reversed Numbers,713,6908,True
+5,2.1.5,Exponentiation,748,3534,False
+5,2.1.6,Numerical surprises,1226,732,False
+5,2.1.7,Super long sums,10013,6067,False
+5,2.1.8,Division,10083,767,False
+5,2.1.9,Product,10106,9790,False
+5,2.1.10,Counting,10198,3359,False
+5,2.1.11,Dear GOD,10430,228,False
+5,2.1.12,Automorphic Numbers,10433,623,False
+5,2.1.13,If We Were a Child Again,10494,3659,False
+5,2.1.14,!! Really Strange !!,10519,1399,False
+5,2.1.15,Very Easy !!!,10523,3342,True
+5,2.1.16,Three powers,10669,735,False
+5,2.1.17,Krakovia,10925,2007,False
+5,2.1.18,The Ghost of Programmers,10992,524,False
+5,2.1.19,Who said crisis?,11448,1270,False
+5,2.1.20,Langton's Ant,11664,133,False
+5,2.1.21,Contract Revision,11830,1631,False
+5,2.1.22,Multiple of 17,11879,3970,True
+5,2.1.23,Stopping Doom's Day,12143,64,False
+5,2.1.24,Bees' ancestors,12459,2294,False
+5,2.2.1,Palindroms <---> smordnilaP,290,749,False
+5,2.2.2,What Base Is This?,343,3124,True
+5,2.2.3,The Bases Are Loaded,355,3039,False
+5,2.2.4,Basically Speaking,389,4121,True
+5,2.2.5,"Kibbles ""n"" Bits ""n"" Bits ""n"" Bits",446,5288,False
+5,2.2.6,Simple Base Conversion,10473,5300,False
+5,2.2.7,Basic Remains,10551,1869,True
+5,2.2.8,Ternary,11185,7584,False
+5,2.2.9,Arithmetic,11952,197,False
+5,2.3.1,Gaussian Primes,960,219,False
+5,2.3.2,Sum of Consecutive Prime Numbers,1210,1470,True
+5,2.3.3,Simply Emirp,10235,8249,True
+5,2.3.4,Prime Words,10924,9129,False
+5,2.3.5,Pseudoprime Numbers,11287,1064,True
+5,2.3.6,Prime Substring,12542,703,False
+5,2.4.1,MODEX,1230,1870,True
+5,2.4.2,Square root,10023,1441,False
+5,2.4.3,All You Need Is Love,10193,4251,False
+5,2.4.4,Big Big Real Numbers,10464,657,False
+5,2.4.5,Simplifying Fractions,10814,1713,True
+5,2.4.6,High-Precision Number,11821,582,True
+5,3.1.1,Fibonacci Freeze,495,9680,False
+5,3.1.2,Critical Mass,580,2059,False
+5,3.1.3,Fibinary Numbers,763,1400,True
+5,3.1.4,Brick Wall Patterns,900,7895,False
+5,3.1.5,Fibonaccimal Base,948,2135,False
+5,3.1.6,Nowhere Money,1258,145,False
+5,3.1.7,How Many Fibs?,10183,4253,False
+5,3.1.8,Ray Through Glasses,10334,4346,True
+5,3.1.9,World Cup Noise,10450,4409,False
+5,3.1.10,Sweet Child Makes Trouble,10497,1025,False
+5,3.1.11,Fibonacci Numbers,10579,4954,False
+5,3.1.12,Yet another Number Sequence,10689,1349,True
+5,3.1.13,Connect the Cable Wires,10862,1276,False
+5,3.1.14,Bee,11000,6237,False
+5,3.1.15,Fi-binary Number,11089,947,False
+5,3.1.16,Help My Brother (II),11161,588,False
+5,3.1.17,Miles 2 Km,11780,501,False
+5,3.2.1,Extrapolation Using a Difference Table,326,1522,False
+5,3.2.2,Combinations,369,11465,False
+5,3.2.3,Pascal's Triangle of Death,485,2469,False
+5,3.2.4,Binomial Showdown,530,7533,False
+5,3.2.5,Multinomial Coefficients,911,342,False
+5,3.2.6,Polynomial Coefficients,10105,3210,False
+5,3.2.7,Find the ways !,10219,3204,True
+5,3.2.8,Choose and divide,10375,1560,False
+5,3.2.9,Combination! Once Again,10532,497,False
+5,3.2.10,Stripe,10541,854,True
+5,3.2.11,Binomial Theorem,11955,802,True
+5,3.3.1,Safe Salutations,991,2034,True
+5,3.3.2,Count the Trees,10007,2310,True
+5,3.3.3,How many nodes ?,10223,2429,False
+5,3.3.4,How Many Trees?,10303,1896,False
+5,3.3.5,Expression Bracketing,10312,840,True
+5,3.3.6,Facing Problem With Trees,10643,223,False
+5,3.4.1,Uncle Jack,11115,1173,False
+5,3.4.2,Delivery Debacle,11310,1219,True
+5,3.4.3,Triangle Counting,11401,2434,True
+5,3.4.4,Jimmy's Balls,11480,876,False
+5,3.4.5,Spanning Subtree,11597,1839,True
+5,3.4.6,Teams,11609,982,False
+5,3.4.7,Little Nephew,12463,782,False
+5,3.5.1,Tile Code,1224,154,False
+5,3.5.2,Pizza Cutting,10079,14409,False
+5,3.5.3,Tiling,10359,1676,False
+5,3.5.4,The Colored Cubes,10733,516,False
+5,3.5.5,Diagonal,10784,4076,True
+5,3.5.6,How Many Points of Intersection?,10790,2707,False
+5,3.5.7,Tri Tiling,10918,1833,False
+5,3.5.8,A Graph Problem,11069,2464,True
+5,3.5.9,Musical instruments,11204,711,False
+5,3.5.10,Tiling Dominoes,11270,405,False
+5,3.5.11,Chess Queen,11538,1260,True
+5,3.5.12,Hapless Hedonism,11554,697,False
+5,3.5.13,Ordering T-shirts,12022,321,False
+5,4.1.1,Prime Cuts,406,7840,False
+5,4.1.2,Goldbach's Conjecture,543,12125,True
+5,4.1.3,Goldbach's Conjecture (II),686,9075,False
+5,4.1.4,Anagrammatic Primes,897,1148,False
+5,4.1.5,Jumping Champion,914,1606,False
+5,4.1.6,Prime Distance,10140,2549,True
+5,4.1.7,Summation of Four Primes,10168,4204,False
+5,4.1.8,Goldbach and Euler,10311,2002,False
+5,4.1.9,Twin Primes,10394,5532,True
+5,4.1.10,Mr. Azad and his Son!!!!!,10490,2271,False
+5,4.1.11,Determinate Prime,10650,1145,False
+5,4.1.12,Less Prime,10852,2440,False
+5,4.1.13,The primary problem,10948,3080,False
+5,4.1.14,The Super Powers,11752,660,False
+5,4.2.1,Fermat vs. Pythagoras,106,4288,False
+5,4.2.2,Rational Numbers from Repeating Fractions,332,1608,False
+5,4.2.3,Uniform Generator,408,4939,False
+5,4.2.4,Pi,412,5879,False
+5,4.2.5,Simple division,10407,2290,True
+5,4.2.6,LCM Cardinality,10892,2022,True
+5,4.2.7,GCD LCM,11388,5136,False
+5,4.2.8,GCD,11417,7799,False
+5,4.2.9,Doom's Day,11774,465,False
+5,4.2.10,Maximum GCD,11827,3357,True
+5,4.2.11,Harmonic Mean,12068,963,False
+5,4.3.1,Factorial Frequencies,324,6348,True
+5,4.3.2,Just the Facts,568,6929,False
+5,4.3.3,500!,623,8012,True
+5,4.3.4,I Love Big Numbers !,10220,6039,False
+5,4.3.5,Factorial! You Must be Kidding!!!,10323,6926,False
+5,4.3.6,Mischievous Children,10338,4366,True
+5,4.4.1,Prime Land,516,2692,True
+5,4.4.2,Prime Factors,583,7575,True
+5,4.4.3,Factoring Large Numbers,10392,2442,False
+5,4.4.4,Largest Prime Divisor,11466,2160,True
+5,4.5.1,Factors and Factorials,160,9505,False
+5,4.5.2,Product of digits,993,3276,False
+5,4.5.3,How many zero's and how many digits ?,10061,1568,False
+5,4.5.4,Factovisors,10139,3237,True
+5,4.5.5,Divisibility of Factors,10484,947,False
+5,4.5.6,Persistent Numbers,10527,725,False
+5,4.5.7,Perfect P-th Powers,10622,2129,False
+5,4.5.8,LCM,10680,1336,True
+5,4.5.9,Again Prime? No Time.,10780,1501,False
+5,4.5.10,Minimum Sum LCM,10791,1838,False
+5,4.5.11,Multifactorials,11347,476,False
+5,4.5.12,Sigma Function,11395,305,False
+5,4.5.13,Benefit,11889,1304,True
+5,4.6.1,Divisors,294,8308,True
+5,4.6.2,Factorial Factors,884,2390,False
+5,4.6.3,Find Terrorists,1246,483,False
+5,4.6.4,Irreducable Basic Fractions,10179,3421,True
+5,4.6.5,Relatives,10299,2859,False
+5,4.6.6,Send a Table,10820,1669,False
+5,4.6.7,How Many Solutions?,10958,341,False
+5,4.6.8,Number Theory,11064,1149,False
+5,4.6.9,Composite Prime,11086,731,False
+5,4.6.10,Reaching the fix-point.,11226,578,False
+5,4.6.11,A Different Kind of Sorting,11353,549,False
+5,4.6.12,Alternate Task,11728,1563,True
+5,4.6.13,Find Solutions,12005,220,False
+5,4.7.1,Count the factors,10699,6150,True
+5,4.7.2,Riemann vs Mertens,10738,1247,True
+5,4.7.3,Another New Function,10990,841,True
+5,4.7.4,Enumerating Rational Numbers,11327,725,False
+5,4.7.5,Divisors,12043,772,False
+5,4.8.1,Software CRC,128,3576,False
+5,4.8.2,Big Mod,374,13067,True
+5,4.8.3,Ones,10127,9154,False
+5,4.8.4,Couple-Bachelor-Spinster Numbers.,10174,636,False
+5,4.8.5,Ocean Deep! - Make it shallow!!,10176,2466,True
+5,4.8.6,The Last Non-zero Digit.,10212,1511,True
+5,4.8.7,Boxes of Chocolates,10489,1978,False
+5,4.8.8,Leading and Trailing,11029,821,False
+5,4.9.1,Marbles,10090,1747,True
+5,4.9.2,Euclid Problem,10104,5050,True
+5,4.9.3,Rare Easy Problem,10633,2870,False
+5,4.9.4,Play with Floor and Ceil,10673,2755,True
+5,4.10.1,DDF,547,730,False
+5,4.10.2,Biorhythms,756,1046,False
+5,4.10.3,"Light, more light",10110,14247,True
+5,4.10.4,2 the 9s,10922,5171,False
+5,4.10.5,You can say 11,10929,9555,False
+5,4.10.6,"Complex, difficult and complicated",11042,625,False
+5,4.10.7,The Huge One,11344,1334,True
+5,4.10.8,Number Theory for Newbies,11371,1846,True
+5,5.1.1,France '98,542,1455,False
+5,5.1.2,What is the Probability ?,10056,2567,False
+5,5.1.3,Let's Dance !!!,10218,338,False
+5,5.1.4,Throw the Dice,10238,347,False
+5,5.1.5,Coin Toss,10328,538,False
+5,5.1.6,Cows and Cars,10491,2858,True
+5,5.1.7,Dice Throwing,10759,1117,True
+5,5.1.8,God! Save me,10777,380,False
+5,5.1.9,Tribles,11021,517,False
+5,5.1.10,Winning Streak,11176,385,True
+5,5.1.11,Probability|Given,11181,709,False
+5,5.1.12,Probability,11346,421,False
+5,5.1.13,Vampires,11500,505,False
+5,5.1.14,Another lottery,11628,528,False
+5,5.1.15,Hats,12024,969,False
+5,5.1.16,Bachelor Arithmetic,12114,1110,False
+5,5.1.17,Tennis contest,12457,204,False
+5,5.1.18,Airplane,12461,1311,False
+5,6.1.1,Repeating Decimals,202,3104,False
+5,6.1.2,Expanding Fractions,275,1614,False
+5,6.1.3,Pseudo-Random Numbers,350,6901,True
+5,6.1.4,Happy Numbers,944,812,False
+5,6.1.5,Last Digit,10162,1918,False
+5,6.1.6,Powers Et Al.,10515,3156,False
+5,6.1.7,Happy Number,10591,6279,False
+5,6.1.8,Eventually Periodic Sequence,11036,232,False
+5,6.1.9,Flavius Josephus Reloaded,11053,573,True
+5,6.1.10,Calculator Conundrum,11549,1340,False
+5,6.1.11,Generate random numbers,11634,834,True
+5,6.1.12,"Professor Lazy, Ph.D.",12464,328,False
+5,7.1.1,A Multiplication Game,847,5441,False
+5,7.1.2,Find the Winning Move,10111,531,True
+5,7.1.3,Stone Game,10165,1847,False
+5,7.1.4,Euclid's Game,10368,1210,False
+5,7.1.5,Bachet's Game,10404,2536,False
+5,7.1.6,The Game of 31,10578,624,False
+5,7.1.7,Exclusively Edible,11311,596,True
+5,7.1.8,Integer Game,11489,1276,True
+5,7.1.9,Box Game,12293,993,False
+5,7.1.10,Stones,12469,272,False
+3,1.1.1,Uncompress,245,1072,False
+3,1.1.2,Cipher,306,1263,False
+3,1.1.3,Encoder and Decoder,444,5087,False
+3,1.1.4,The Decoder,458,26525,False
+3,1.1.5,Word Scramble,483,14484,False
+3,1.1.6,Pig-Latin,492,6601,False
+3,1.1.7,Do the Untwist,641,1122,False
+3,1.1.8,Soundex Indexing,739,2684,False
+3,1.1.9,Sandorf's Cipher,795,279,False
+3,1.1.10,Substitution Cypher,865,1014,False
+3,1.1.11,Funny Encryption Method,10019,9457,False
+3,1.1.12,Decode the Mad man,10222,8803,False
+3,1.1.13,2D Hieroglyphs decoder,10851,1004,True
+3,1.1.14,Decode the tape,10878,5175,True
+3,1.1.15,Known Plaintext Attack,10896,808,False
+3,1.1.16,Find the Telephone,10921,9809,False
+3,1.1.17,Decoding the message.,11220,1571,False
+3,1.1.18,One-Handed Typist,11278,1101,True
+3,1.1.19,Decoding,11541,3979,False
+3,1.1.20,Digital Fortress,11716,3796,False
+3,1.1.21,Numeral Hieroglyphs,11787,668,False
+3,1.1.22,Code Number,11946,1942,False
+3,1.2.1,Message Decoding,213,1633,False
+3,1.2.2,Key to Success,468,816,False
+3,1.2.3,Caesar Cypher,554,515,True
+3,1.2.4,Compression (II),632,523,False
+3,1.2.5,Decode,726,305,False
+3,1.2.6,Baudot Data Communication Code,740,2086,False
+3,1.2.7,Burrows Wheeler Decoder,741,646,False
+3,1.2.8,Crypt Kicker II,850,2072,False
+3,1.2.9,The Vigenère Cipher,856,260,False
+3,1.2.10,Da Vinci Code,11385,1761,True
+3,1.2.11,Playfair Cipher,11697,409,True
+3,1.3.1,"What's The Frequency, Kenneth?",499,9536,False
+3,1.3.2,Word Problem,895,1861,False
+3,1.3.3,Password Search,902,2549,True
+3,1.3.4,What's Cryptanalysis?,10008,13395,False
+3,1.3.5,Tell me the frequencies!,10062,6713,False
+3,1.3.6,Common Permutation,10252,7615,True
+3,1.3.7,Word Length and Frequency,10293,1522,False
+3,1.3.8,Election,10374,1205,False
+3,1.3.9,List of Conquests,10420,9608,False
+3,1.3.10,GNU = GNU'sNotUnix,10625,639,False
+3,1.3.11,Prime Frequency,10789,4907,False
+3,1.3.12,Can you decide it for ME?,11203,892,True
+3,1.3.13,Letter Frequency,11577,3157,False
+3,1.4.1,Simply Syntax,271,2574,False
+3,1.4.2,Evaluating Simple C Expressions,327,1244,False
+3,1.4.3,Mark-up,391,805,False
+3,1.4.4,Equation Elation,397,872,False
+3,1.4.5,Matrix Chain Multiplication,442,4142,False
+3,1.4.6,English-Number Translator,486,1933,False
+3,1.4.7,Artificial Intelligence?,537,4356,False
+3,1.4.8,A DP Problem,1200,342,False
+3,1.4.9,Strange Integration,10906,228,True
+3,1.4.10,Moliu Fractions,11148,309,False
+3,1.4.11,Ensuring Truth,11357,261,True
+3,1.4.12,Homework Checker,11878,2301,True
+3,1.4.13,Longest Word,12543,1040,False
+3,1.5.1,Slurpys,384,1516,False
+3,1.5.2,Sentence/Phrase Generator,464,351,False
+3,1.5.3,Cellular Structure,620,1497,False
+3,1.5.4,Grammar Evaluation,622,475,True
+3,1.5.5,The MTM Machine,743,590,False
+3,1.5.6,Number of Paths,10854,385,True
+3,1.5.7,The Good Old Times,11070,322,False
+3,1.5.8,Smeech,11291,372,True
+3,1.6.1,Identifying Legal Pascal Real Constants,325,1545,True
+3,1.6.2,Kindergarten Counting Game,494,22891,True
+3,1.6.3,Haiku Review,576,3472,False
+3,1.6.4,Jimmi's Riddles,10058,607,True
+3,2.1.1,Meta-Loopless Sorts,110,1974,False
+3,2.1.2,Word Crosses,159,1029,False
+3,2.1.3,Border,320,1570,False
+3,2.1.4,Inventory Maintenance,330,154,False
+3,2.1.5,Long Multiplication,338,462,False
+3,2.1.6,Romulan Spelling,373,151,False
+3,2.1.7,Fifth Bank of Swamp County,426,217,False
+3,2.1.8,Marvelous Mazes,445,10119,False
+3,2.1.9,Triangle Wave,488,15177,True
+3,2.1.10,Rotating Sentences,490,9731,False
+3,2.1.11,Stats,570,239,False
+3,2.1.12,File Mapping,645,224,False
+3,2.1.13,Maze (II),890,69,False
+3,2.1.14,Team Arrangement,1219,81,False
+3,2.1.15,The Tower of ASCII,10333,375,False
+3,2.1.16,Robot maps,10500,818,False
+3,2.1.17,Broken Keyboard,10761,313,False
+3,2.1.18,Not That Kind of Graph,10800,1557,True
+3,2.1.19,Big Math,10875,203,False
+3,2.1.20,Save Hridoy,10894,645,False
+3,2.1.21,Draw Grid,11074,1224,False
+3,2.1.22,Building a Triangular Museum,11482,366,False
+3,2.1.23,Extra Spaces,11965,1141,False
+3,2.1.24,ASCII Diamondi,12155,150,True
+3,2.1.25,In Braille,12364,456,False
+3,2.2.1,"Excuses, Excuses!",409,3952,False
+3,2.2.2,Immediate Decodability,644,3698,True
+3,2.2.3,Spell checker,671,572,False
+3,2.2.4,Live From Mars,912,147,False
+3,2.2.5,Automatic Correction of Misspellings,11048,530,True
+3,2.2.6,Formula 1,11056,1002,True
+3,2.2.7,Deli Deli,11233,2517,False
+3,2.2.8,Abstract Names,11713,3878,False
+3,2.2.9,Big Number of Teams will Solve This,11734,2804,False
+3,2.3.1,Permalex,153,1706,False
+3,2.3.2,Number Chains,263,2688,False
+3,2.3.3,Finding words,892,627,False
+3,2.3.4,Permutations,941,1542,True
+3,2.3.5,String Cutting,1215,173,False
+3,2.3.6,Greatest K-Palindrome Substring,1239,176,False
+3,2.3.7,Automatic Editing,10115,2667,False
+3,2.3.8,Zipf's Law,10126,688,False
+3,2.3.9,Learning Portuguese,10197,739,False
+3,2.3.10,Automatic Poetry,10361,4833,False
+3,2.3.11,Compound Words,10391,2112,False
+3,2.3.12,The One-Handed Typist,10393,917,True
+3,2.3.13,Word Morphing,10508,1435,False
+3,2.3.14,I Love Strings!!,10679,3043,False
+3,2.3.15,Dancing the Cheeky-Cheeky,11452,525,True
+3,2.3.16,Code Creator,11483,1019,False
+3,2.3.17,Optical Reader,11839,1335,False
+3,2.3.18,DNA II,11962,297,False
+3,2.3.19,Flowers Flourish from France,12243,1721,False
+3,2.3.20,Calculating Yuan Fen,12414,283,False
+3,3.1.1,Periodic Strings,455,6051,False
+3,3.1.2,Named Extension Dialing,886,124,False
+3,3.1.3,Power Strings,10298,4130,True
+3,3.1.4,Phone List,11362,2474,False
+3,3.1.5,Extend to Palindrome,11475,2154,True
+3,3.1.6,Scrolling Sign,11576,771,True
+3,3.1.7,Abnormal 89's,11888,874,False
+3,3.1.8,Secret Word,12467,446,False
+3,3.2.1,Word-Search Wonder,422,2076,True
+3,3.2.2,The Boggle Game,604,536,False
+3,3.2.3,Lost in Space,736,215,False
+3,3.2.4,Where's Waldorf?,10010,7091,True
+3,3.2.5,Playing Boggle,11283,585,True
+3,4.1.1,String Computer,164,1996,False
+3,4.1.2,String Distance and Transform Process,526,1570,True
+3,4.1.3,Compromise,531,3506,False
+3,4.1.4,AGTC,1207,620,False
+3,4.1.5,The Twin Towers,10066,6780,False
+3,4.1.6,Longest Match,10100,2351,False
+3,4.1.7,Vacation,10192,6277,True
+3,4.1.8,Longest Common Subsequence,10405,10648,False
+3,4.1.9,Prince and Princess,10635,1980,True
+3,4.1.10,String to Palindrome,10739,2245,False
+3,4.2.1,Palinwords,257,517,False
+3,4.2.2,Make Palindrome,10453,1461,False
+3,4.2.3,Again Palindrome,10617,1380,False
+3,4.2.4,String Factoring,11022,662,True
+3,4.2.5,Longest Palindrome,11151,3150,True
+3,4.2.6,String Partition,11258,1076,True
+3,4.2.7,Fewest Flops,11552,513,False
+3,5.1.1,Glass Beads,719,1133,False
+3,5.1.2,DNA Sequencing,760,1139,True
+3,5.1.3,Editor,1223,425,False
+3,5.1.4,Top 10,1254,150,False
+3,5.1.5,Life Forms,11107,558,True
+3,5.1.6,GATTACA,11512,1559,True
+8,1.1.1,Tree's a Crowd,152,2812,False
+8,1.1.2,Intersection,191,3740,False
+8,1.1.3,Intersecting Lines,378,3499,False
+8,1.1.4,There's treasure everywhere!,587,2360,False
+8,1.1.5,Water Falls,833,945,False
+8,1.1.6,Light and Transparencies,837,1196,False
+8,1.1.7,Sunny Mountains,920,1722,True
+8,1.1.8,Euclid,1249,179,False
+8,1.1.9,Fourth Point !!,10242,3030,False
+8,1.1.10,The Other Two Trees,10250,1148,False
+8,1.1.11,Railway,10263,1213,True
+8,1.1.12,Playball !!!,10357,354,False
+8,1.1.13,How Far?,10466,555,False
+8,1.1.14,Center of symmetry,10585,726,False
+8,1.1.15,Yoyodyne,10832,236,False
+8,1.1.16,Brownie Points,10865,829,False
+8,1.1.17,Pick-up Sticks,10902,803,False
+8,1.1.18,Bright Lights,10927,676,True
+8,1.1.19,An Easy Task,11068,1279,False
+8,1.1.20,Isolated Segments,11343,756,False
+8,1.1.21,Logo,11505,857,False
+8,1.1.22,Logo 2,11519,237,False
+8,1.1.23,Genius MJ,11894,193,False
+8,1.2.1,Pipe Fitters,121,2633,False
+8,1.2.2,Orchard Trees,143,1051,False
+8,1.2.3,Circle Through Three Points,190,4140,False
+8,1.2.4,Inscribed Circles and Isosceles Triangles,375,1024,False
+8,1.2.5,The Circumference of the Circle,438,6695,False
+8,1.2.6,The Knights Of The Round Table,10195,5402,False
+8,1.2.7,Romeo and Juliet !,10210,859,False
+8,1.2.8,Trouble with a Pentagon,10286,3161,False
+8,1.2.9,Medians,10347,3936,False
+8,1.2.10,Billiard,10387,1162,False
+8,1.2.11,Height to Area,10522,865,False
+8,1.2.12,Bounding box,10577,573,True
+8,1.2.13,The Laurel-Hardy Story,10792,495,False
+8,1.2.14,Region,10991,1473,False
+8,1.2.15,Colourful Flowers,11152,3633,True
+8,1.2.16,Kingdom Division,11164,210,False
+8,1.2.17,Triangular Pegs in Round Holes,11281,214,False
+8,1.2.18,Laser Pointer,11326,389,False
+8,1.2.19,Triangle Fun,11437,949,False
+8,1.2.20,Is this the easiest problem?,11479,7978,False
+8,1.2.21,Triangle Trouble,11579,654,False
+8,1.2.22,Egypt,11854,9586,False
+8,1.2.23,Soya Milk,11909,1526,True
+8,1.2.24,The Lazy Lumberjacks,11936,4993,False
+8,2.1.1,Graveyard,1388,649,False
+8,2.1.2,Packing polygons,10005,1193,True
+8,2.1.3,Chocolate Chip Cookies,10136,461,False
+8,2.1.4,Rope Crisis in Ropeland!,10180,707,False
+8,2.1.5,Is This Integration ?,10209,4359,False
+8,2.1.6,Satellites,10221,3129,False
+8,2.1.7,The Kissing Circles,10283,1079,False
+8,2.1.8,Polygon Inside A Circle,10432,5977,False
+8,2.1.9,Ancient Village Sports,10451,2083,False
+8,2.1.10,Geometry Paradox,10573,2048,False
+8,2.1.11,Area,10589,2059,True
+8,2.1.12,The Grazing Cow,10678,2782,True
+8,2.1.13,10:6:2,12578,3868,False
+8,2.2.1,All Squares,155,2674,False
+8,2.2.2,Overlapping Rectangles,460,1737,True
+8,2.2.3,Points in Figures: Rectangles,476,7278,False
+8,2.2.4,Points in Figures: Rectangles and Circles,477,5944,False
+8,2.2.5,The easiest way,11207,1164,True
+8,2.2.6,Rectangles,11345,618,False
+8,2.2.7,Behold my quadrangle,11455,4697,False
+8,2.2.8,Guard the Land,11639,758,False
+8,2.2.9,Determine the Shape,11800,602,False
+8,2.2.10,Elevator,11834,764,True
+8,2.2.11,Making Quadrilaterals,12256,198,False
+8,2.3.1,Gleaming the Cubes,737,1177,True
+8,2.3.2,Flooded!,815,1229,True
+8,2.3.3,Beavergnaw,10297,2471,True
+8,3.1.1,SCUD Busters,109,2190,False
+8,3.1.2,Polygons,137,625,False
+8,3.1.3,Moth Eradication,218,1523,False
+8,3.1.4,Cops and Robbers,361,320,False
+8,3.1.5,"Points in Figures: Rectangles, Circles, Triangles",478,3764,False
+8,3.1.6,The Incredible Hull,596,143,False
+8,3.1.7,Polygon,634,1429,False
+8,3.1.8,Convex Hull Finding,681,2008,False
+8,3.1.9,Berry Picking,858,350,False
+8,3.1.10,Trash Removal,1111,460,True
+8,3.1.11,Boundary Points,1206,135,False
+8,3.1.12,Center of Masses,10002,1488,False
+8,3.1.13,A hole to catch a man,10060,756,False
+8,3.1.14,Useless Tile Packers,10065,1518,False
+8,3.1.15,Myacm Triangles,10112,1657,False
+8,3.1.16,Cutting tabletops,10406,425,False
+8,3.1.17,Board Wrapping,10652,609,True
+8,3.1.18,Nails,11096,584,False
+8,3.1.19,The Sultan's Problem,11265,328,True
+8,3.1.20,Reservoir logs,11447,296,False
+8,3.1.21,Campus Roads,11473,237,False
+8,3.1.22,Convex Hull,11626,593,False
